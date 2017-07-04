@@ -1,0 +1,8 @@
+H:\XOapp\XOapp\obj\x86\Debug\XOapp.Properties.Resources.resources
+H:\XOapp\XOapp\obj\x86\Debug\XOapp.XOForm.resources
+H:\XOapp\XOapp\obj\x86\Debug\XOGame.csproj.GenerateResource.Cache
+H:\XOapp\XOapp\bin\Debug\XOapp.exe
+H:\XOapp\XOapp\bin\Debug\XOapp.pdb
+H:\XOapp\XOapp\obj\x86\Debug\XOapp.exe
+H:\XOapp\XOapp\obj\x86\Debug\XOapp.pdb
+H:\XOapp\XOapp\obj\x86\Debug\XOGame.csprojResolveAssemblyReference.cache
